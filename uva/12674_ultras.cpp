@@ -6,6 +6,8 @@ using namespace std;
 #define MIN_HEIGHT 150000
 #define IMPOSSIBLE_HEIGHT 1000001
 #define NOT_FOUND -1
+
+//ACM ICPC Latin America Regional 2013
  
 /*
     We use a segment tree to solve this problem 
